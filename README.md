@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Joshua-Terriquez
-- 👀 I’m interested in Web Development, Back-end development, cloud computing
+- 👀 I’m interested in Web Development, Back-end development, Cloud computing
 - 🌱 I’m currently learning sql, distributed systems, & computer graphics
+- 📫 Undergrad- University of California-Merced 23'
 - 💞️ AVID Learner
-- 📫 Undergrad- University of California Merced
 
 <!---
 Joshua-Terriquez/Joshua-Terriquez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
