@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Joshua-Terriquez
-- 👀 I’m interested in Web Development, Back-end development, Cloud computing
+- 👀 I’m interested in Web Development, Back-end Development, Cloud Computing
 - 🌱 I’m currently learning sql, distributed systems, & computer graphics
 - 📫 Undergrad- University of California-Merced 23'
 - 💞️ AVID Learner
