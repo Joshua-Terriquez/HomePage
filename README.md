@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development, Back-end Development, Cloud Computing
 - 🌱 I’m currently learning Web-Development, Intro. to Human-Computer Interaction, & Software Engineering
 - 📫 Undergrad- University of California-Merced 23'
-- 💞️ AVID Learner
+-    AVID Learner
 
 <!---
 Joshua-Terriquez/Joshua-Terriquez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
